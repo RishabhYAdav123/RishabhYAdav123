@@ -8,8 +8,8 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=RishabhYadav123&style=for-the-badge&color=0e75b6" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/RishabhYadav123?style=for-the-badge&logo=github" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=RishabhYAdav123&style=for-the-badge&color=0e75b6" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/RishabhYAdav123?style=for-the-badge&logo=github" alt="GitHub followers" />
 
 </div>
 
@@ -38,20 +38,20 @@
 
 <div align="center">
 
-<a href="https://github.com/RishabhYadav123/WorkShield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYadav123&repo=WorkShield&theme=tokyonight" alt="WorkShield repository card" />
+<a href="https://github.com/RishabhYAdav123/WorkShield">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=WorkShield&theme=tokyonight" alt="WorkShield repository card" />
 </a>
 
-<a href="https://github.com/RishabhYadav123/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYadav123&repo=task-manager&theme=tokyonight" alt="Task Manager repository card" />
+<a href="https://github.com/RishabhYAdav123/task-manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=task-manager&theme=tokyonight" alt="Task Manager repository card" />
 </a>
 
-<a href="https://github.com/RishabhYadav123/Movie_review_sentiment_analysis_using_nlp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYadav123&repo=Movie_review_sentiment_analysis_using_nlp&theme=tokyonight" alt="Movie Review Sentiment Analysis repository card" />
+<a href="https://github.com/RishabhYAdav123/Movie_review_sentiment_analysis_using_nlp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=Movie_review_sentiment_analysis_using_nlp&theme=tokyonight" alt="Movie Review Sentiment Analysis repository card" />
 </a>
 
-<a href="https://github.com/RishabhYadav123/Driver_Evaluation_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYadav123&repo=Driver_Evaluation_System&theme=tokyonight" alt="Driver Evaluation System repository card" />
+<a href="https://github.com/RishabhYAdav123/Driver_Evaluation_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=Driver_Evaluation_System&theme=tokyonight" alt="Driver Evaluation System repository card" />
 </a>
 
 </div>
@@ -62,13 +62,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RishabhYadav123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhYadav123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RishabhYAdav123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhYAdav123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=RishabhYadav123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=RishabhYAdav123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RishabhYadav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYadav123&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYAdav123&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
@@ -98,10 +98,10 @@
 
 | Project | What it does | Tech Focus |
 | --- | --- | --- |
-| [WorkShield](https://github.com/RishabhYadav123/WorkShield) | Predicts employee attrition risk and generates analysis reports | Flask, Python, ML |
-| [Movie Review Sentiment Analysis](https://github.com/RishabhYadav123/Movie_review_sentiment_analysis_using_nlp) | Uses NLP to classify movie review sentiment | Python, NLP, ML |
-| [Task Manager](https://github.com/RishabhYadav123/task-manager) | Helps manage daily tasks and productivity | Web Development |
-| [Driver Evaluation System](https://github.com/RishabhYadav123/Driver_Evaluation_System) | Evaluates driver-related performance data | Python, Data Analysis |
+| [WorkShield](https://github.com/RishabhYAdav123/WorkShield) | Predicts employee attrition risk and generates analysis reports | Flask, Python, ML |
+| [Movie Review Sentiment Analysis](https://github.com/RishabhYAdav123/Movie_review_sentiment_analysis_using_nlp) | Uses NLP to classify movie review sentiment | Python, NLP, ML |
+| [Task Manager](https://github.com/RishabhYAdav123/task-manager) | Helps manage daily tasks and productivity | Web Development |
+| [Driver Evaluation System](https://github.com/RishabhYAdav123/Driver_Evaluation_System) | Evaluates driver-related performance data | Python, Data Analysis |
 
 ---
 
@@ -115,7 +115,7 @@
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/RishabhYadav123">
+<a href="https://github.com/RishabhYAdav123">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
