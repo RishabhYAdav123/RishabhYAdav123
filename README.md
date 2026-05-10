@@ -1,203 +1,183 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/RishabhYAdav123/RishabhYAdav123/main/assets/ai-profile-background.png" alt="Rishabh Yadav AI/ML futuristic profile banner" />
+<img width="100%" src="https://raw.githubusercontent.com/RishabhYAdav123/RishabhYAdav123/main/assets/ai-profile-background.png" alt="Rishabh Yadav cyberpunk AI developer dashboard banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=800&center=true&vCenter=true&width=950&lines=Building+AI-powered+real-time+systems;Computer+Vision+%7C+NLP+%7C+Full-Stack+Engineering;YOLO+%2B+DeepSORT+%2B+OpenCV+%2B+ML;Turning+research+ideas+into+production-ready+apps" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2400&pause=700&center=true&vCenter=true&width=980&lines=AI%2FML+Engineer+%E2%80%A2+Full+Stack+Developer;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+Real-Time+Tracking;YOLO+%2B+DeepSORT+%2B+OpenCV+%2B+Deep+Learning;Keep+coding.+Keep+learning.+Keep+building." alt="Typing animation" />
 
 <br />
 <br />
 
 <a href="https://github.com/RishabhYAdav123">
-  <img src="https://img.shields.io/badge/GitHub-RishabhYAdav123-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-RishabhYadav123-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/rishabh-yadav-ba4562288/">
   <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/Rishabh_Yadav_17/">
-  <img src="https://img.shields.io/badge/LeetCode-Rishabh__Yadav__17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-Rishabh__Yadav__17-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=RishabhYAdav123&style=for-the-badge&color=0ea5e9" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/RishabhYAdav123?style=for-the-badge&logo=github&color=7c3aed" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/RishabhYAdav123?style=for-the-badge&logo=github&color=22c55e" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=RishabhYAdav123&style=for-the-badge&color=0ea5e9&label=Visitors" alt="Profile visitors" />
+<img src="https://img.shields.io/github/followers/RishabhYAdav123?style=for-the-badge&logo=github&color=7c3aed&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/RishabhYAdav123?style=for-the-badge&logo=github&color=22d3ee&label=Stars" alt="Stars" />
 
 </div>
 
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:22D3EE&height=3&section=header" alt="Neon separator" />
-
-## 🧠 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:22D3EE&height=4&section=header" alt="Neon separator" />
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="30%" valign="top">
 
-```cpp
-class RishabhYadav {
-public:
-    string role = "AI/ML Engineer + Full Stack Developer";
-    vector<string> interests = {
-        "Artificial Intelligence",
-        "Computer Vision",
-        "NLP",
-        "Real-Time Tracking",
-        "Web Development"
-    };
-    vector<string> currentFocus = {
-        "Real-Time Re-identification",
-        "YOLOv11 Object Tracking",
-        "Accent Intensity Regression",
-        "AI Driver Evaluation"
-    };
-};
+<div align="center">
+
+<img width="170" src="https://github.com/RishabhYAdav123.png?size=240" alt="Rishabh Yadav profile image" />
+
+### Rishabh Yadav
+
+**AI/ML Engineer**  
+**Full Stack Developer**  
+**Final Year BTech Student**
+
+<img src="https://img.shields.io/badge/Status-Building%20AI%20Systems-22D3EE?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Mode-Developer%20ON-7C3AED?style=flat-square" alt="Developer mode" />
+
+</div>
+
+#### Identity
+
+```txt
+> AI/ML Engineer
+> Problem Solver
+> Real-Time Systems Builder
+> Web + Intelligence
 ```
 
-- 🎓 Final Year **BTech Student** at **PSIT Kanpur**
-- 📘 Pursuing **IMSc in Maths and Computing** from **BIT Mesra**
-- 🚀 Building intelligent systems around **YOLO, DeepSORT, OpenCV, ML, and real-time analytics**
-- 💡 Passionate about combining **AI research + production-grade full-stack apps**
-- 🧩 Practicing DSA and problem solving on [LeetCode](https://leetcode.com/u/Rishabh_Yadav_17/)
+#### Education
 
-  </td>
-  <td width="42%" valign="top">
+- BTech 4th Year, **PSIT Kanpur**
+- IMSc Maths and Computing, **BIT Mesra**
+
+#### Connect
+
+<a href="https://www.linkedin.com/in/rishabh-yadav-ba4562288/">
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/Rishabh_Yadav_17/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode" />
+</a>
+<a href="https://github.com/RishabhYAdav123">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+#### Mission
+
+```bash
+build_ai_systems --real-time
+learn --daily
+ship --clean-interfaces
+```
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="AI developer coding visual" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Focus-Computer%20Vision-38BDF8?style=for-the-badge" alt="Computer Vision" />
-<img src="https://img.shields.io/badge/Mode-Building-8B5CF6?style=for-the-badge" alt="Building" />
-<img src="https://img.shields.io/badge/Vibe-Futuristic-22D3EE?style=for-the-badge" alt="Futuristic" />
+<img src="https://img.shields.io/badge/Let's%20Build%20The%20Future-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Future CTA" />
 
 </div>
 
   </td>
-  </tr>
-</table>
+  <td width="70%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:0EA5E9&height=2&section=header" alt="Gradient separator" />
+## Hello, I'm Rishabh Yadav
 
-## ⚙️ Tech Stack
+> **AI/ML Engineer • Full Stack Developer • Final Year BTech Student**
+
+```python
+class RishabhYadav:
+    def __init__(self):
+        self.role = "AI/ML Engineer + Full Stack Developer"
+        self.education = ["PSIT Kanpur", "BIT Mesra"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Computer Vision",
+            "NLP",
+            "Real-Time Tracking",
+            "Web Development"
+        ]
+
+    def build(self):
+        return "AI solutions for real-world impact"
+```
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-020617?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Computer%20Vision-020617?style=for-the-badge&logo=opencv&logoColor=0EA5E9" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/NLP-020617?style=for-the-badge&logo=python&logoColor=7C3AED" alt="NLP" />
+<img src="https://img.shields.io/badge/Real--Time%20Tracking-020617?style=for-the-badge&logo=target&logoColor=22D3EE" alt="Real Time Tracking" />
+<img src="https://img.shields.io/badge/Web%20Development-020617?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Web Development" />
+
+### Tech Stack Panel
 
 <div align="center">
 
-### Core Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,opencv,tensorflow,pytorch,git,docker,linux,vscode" alt="Tech stack icons" />
 
-### Full Stack
-<img src="https://skillicons.dev/icons?i=react,flask,nodejs,express,streamlit,mongodb,mysql,git,github,vscode,postman" alt="Full stack tools" />
-
-### AI, ML And Vision
 <br />
-<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+<br />
+
+<img src="https://img.shields.io/badge/Streamlit-020617?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
 <img src="https://img.shields.io/badge/YOLO-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="YOLO" />
 <img src="https://img.shields.io/badge/DeepSORT-0EA5E9?style=for-the-badge&logo=target&logoColor=white" alt="DeepSORT" />
-<img src="https://img.shields.io/badge/NLP-22D3EE?style=for-the-badge&logo=python&logoColor=0F172A" alt="NLP" />
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning" />
 
 </div>
 
----
-
-## 🔥 Current Projects
+### Currently Working On
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 Real-Time Re-identification System</h3>
-      <p>AI-powered system for identifying and tracking entities across camera streams using computer vision and feature matching.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=flat-square" alt="Computer Vision" />
-        <img src="https://img.shields.io/badge/Real--Time-7C3AED?style=flat-square" alt="Real Time" />
-        <img src="https://img.shields.io/badge/Tracking-22D3EE?style=flat-square" alt="Tracking" />
-      </p>
+      <h4>Real-Time Re-identification System</h4>
+      <p>Building identity-aware tracking across frames using visual embeddings and real-time inference.</p>
+      <img src="https://img.shields.io/badge/CV-0EA5E9?style=flat-square" alt="CV" />
+      <img src="https://img.shields.io/badge/ReID-7C3AED?style=flat-square" alt="ReID" />
+      <img src="https://img.shields.io/badge/Tracking-22D3EE?style=flat-square" alt="Tracking" />
     </td>
     <td width="50%" valign="top">
-      <h3>📡 YOLOv11 Object Tracking</h3>
-      <p>Object detection and tracking workflow focused on real-time inference, motion consistency, and visual analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/YOLOv11-7C3AED?style=flat-square" alt="YOLOv11" />
-        <img src="https://img.shields.io/badge/OpenCV-0EA5E9?style=flat-square" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/DeepSORT-22D3EE?style=flat-square" alt="DeepSORT" />
-      </p>
+      <h4>YOLOv11 Object Tracking</h4>
+      <p>Object detection and tracking pipeline for real-time visual intelligence and motion analysis.</p>
+      <img src="https://img.shields.io/badge/YOLOv11-7C3AED?style=flat-square" alt="YOLOv11" />
+      <img src="https://img.shields.io/badge/OpenCV-0EA5E9?style=flat-square" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/DeepSORT-22D3EE?style=flat-square" alt="DeepSORT" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ Accent Intensity Regressor</h3>
-      <p>ML model designed to estimate accent intensity using audio/speech features and regression-based prediction.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NLP-0EA5E9?style=flat-square" alt="NLP" />
-        <img src="https://img.shields.io/badge/Speech-7C3AED?style=flat-square" alt="Speech" />
-        <img src="https://img.shields.io/badge/Regression-22D3EE?style=flat-square" alt="Regression" />
-      </p>
+      <h4>Accent Intensity Regressor</h4>
+      <p>Predicting accent intensity with speech features, NLP workflows, and regression models.</p>
+      <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" alt="NLP" />
+      <img src="https://img.shields.io/badge/Speech-0EA5E9?style=flat-square" alt="Speech" />
+      <img src="https://img.shields.io/badge/Regression-22D3EE?style=flat-square" alt="Regression" />
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 AI-Based Driver Evaluation System</h3>
-      <p>Data-driven driver behavior and performance evaluation system with intelligent scoring and decision support.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" alt="AI" />
-        <img src="https://img.shields.io/badge/Analytics-0EA5E9?style=flat-square" alt="Analytics" />
-        <img src="https://img.shields.io/badge/Evaluation-22D3EE?style=flat-square" alt="Evaluation" />
-      </p>
+      <h4>AI Driver Evaluation System</h4>
+      <p>Evaluating driving behavior through analytics, AI scoring, and intelligent decision support.</p>
+      <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" alt="AI" />
+      <img src="https://img.shields.io/badge/Analytics-0EA5E9?style=flat-square" alt="Analytics" />
+      <img src="https://img.shields.io/badge/Evaluation-22D3EE?style=flat-square" alt="Evaluation" />
     </td>
   </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ WorkShield</h3>
-      <p>Employee attrition prediction and risk analysis platform with ML predictions, CSV workflow, and recommendation outputs.</p>
-      <p><b>Stack:</b> Python, Flask, SVM, ML</p>
-      <a href="https://github.com/RishabhYAdav123/WorkShield">
-        <img src="https://img.shields.io/badge/View%20Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="WorkShield repository" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖐️ NexaGestura</h3>
-      <p>Gesture-focused project exploring human-computer interaction through intelligent visual recognition workflows.</p>
-      <p><b>Stack:</b> Python, Vision, Interaction</p>
-      <a href="https://github.com/RishabhYAdav123/Nexagestura">
-        <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="NexaGestura repository" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎥 RE_identification_Player</h3>
-      <p>Player re-identification and tracking project built around real-time computer vision and feature-based matching.</p>
-      <p><b>Stack:</b> YOLO, DeepSORT, OpenCV</p>
-      <a href="https://github.com/RishabhYAdav123/RE_identification_Player">
-        <img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0F172A" alt="RE identification repository" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚘 Driver Evaluation System</h3>
-      <p>AI and analytics-based system for evaluating driving performance, behavior, and decision quality.</p>
-      <p><b>Stack:</b> Python, ML, Data Analysis</p>
-      <a href="https://github.com/RishabhYAdav123/Driver_Evaluation_System">
-        <img src="https://img.shields.io/badge/View%20Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Driver Evaluation repository" />
-      </a>
-    </td>
+  </td>
   </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:0EA5E9&height=3&section=header" alt="Cyber separator" />
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -209,33 +189,76 @@ public:
 
 <img src="https://streak-stats.demolab.com?user=RishabhYAdav123&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub streak" />
 
-</div>
+<br />
+<br />
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYAdav123&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYAdav123&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF" alt="Contribution graph" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## Featured Projects
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
-
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>WorkShield</h3>
+      <p>Workplace monitoring and employee attrition risk analysis system.</p>
+      <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python" alt="Python" />
+      <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask" alt="Flask" />
+      <img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square" alt="ML" />
+      <br /><br />
+      <a href="https://github.com/RishabhYAdav123/WorkShield">
+        <img src="https://img.shields.io/badge/View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="WorkShield repository" />
+      </a>
+    </td>
+    <td width="25%" valign="top">
+      <h3>NexaGestura</h3>
+      <p>Gesture recognition system for next-gen human-computer interaction.</p>
+      <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python" alt="Python" />
+      <img src="https://img.shields.io/badge/OpenCV-0EA5E9?style=flat-square" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/DL-7C3AED?style=flat-square" alt="DL" />
+      <br /><br />
+      <a href="https://github.com/RishabhYAdav123/Nexagestura">
+        <img src="https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="NexaGestura repository" />
+      </a>
+    </td>
+    <td width="25%" valign="top">
+      <h3>RE_identification_Player</h3>
+      <p>Player re-identification using DeepSORT and appearance features.</p>
+      <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python" alt="Python" />
+      <img src="https://img.shields.io/badge/DeepSORT-0EA5E9?style=flat-square" alt="DeepSORT" />
+      <img src="https://img.shields.io/badge/ReID-7C3AED?style=flat-square" alt="ReID" />
+      <br /><br />
+      <a href="https://github.com/RishabhYAdav123/RE_identification_Player">
+        <img src="https://img.shields.io/badge/View%20Repo-22D3EE?style=for-the-badge&logo=github&logoColor=111827" alt="RE identification repository" />
+      </a>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Driver Evaluation System</h3>
+      <p>AI-based driver behavior evaluation and performance analytics.</p>
+      <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python" alt="Python" />
+      <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" alt="AI" />
+      <img src="https://img.shields.io/badge/Analytics-0EA5E9?style=flat-square" alt="Analytics" />
+      <br /><br />
+      <a href="https://github.com/RishabhYAdav123/Driver_Evaluation_System">
+        <img src="https://img.shields.io/badge/View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Driver Evaluation repository" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧩 Coding Profile
+## Achievements And Coding Profile
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies" />
+
+<br />
+<br />
 
 <a href="https://leetcode.com/u/Rishabh_Yadav_17/">
   <img src="https://leetcard.jacoblin.cool/Rishabh_Yadav_17?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
@@ -245,17 +268,20 @@ public:
 
 ---
 
-## 🐍 Contribution Snake Animation
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RishabhYAdav123/RishabhYAdav123/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishabhYAdav123/RishabhYAdav123/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/RishabhYAdav123/RishabhYAdav123/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -263,10 +289,10 @@ public:
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/Rishabh_Yadav_17/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode" />
 </a>
 <a href="https://github.com/RishabhYAdav123">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br />
@@ -276,12 +302,12 @@ public:
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:22D3EE&height=3&section=footer" alt="Footer separator" />
 
 <div align="center">
 
-### ⚡ Building intelligent systems. Shipping clean interfaces. Learning every day.
+### Keep coding. Keep learning. Keep building.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:7C3AED,70:0EA5E9,100:020617&height=150&section=footer" alt="Futuristic footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:7C3AED,70:0EA5E9,100:111827&height=150&section=footer" alt="Cyberpunk footer" />
 
 </div>
