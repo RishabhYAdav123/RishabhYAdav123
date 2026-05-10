@@ -99,34 +99,6 @@ const rishabh = {
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/RishabhYAdav123/WorkShield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=WorkShield&theme=tokyonight&hide_border=true" alt="WorkShield repository card" />
-</a>
-<a href="https://github.com/RishabhYAdav123/Movie_review_sentiment_analysis_using_nlp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=Movie_review_sentiment_analysis_using_nlp&theme=tokyonight&hide_border=true" alt="Movie Review Sentiment Analysis repository card" />
-</a>
-<a href="https://github.com/RishabhYAdav123/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=task-manager&theme=tokyonight&hide_border=true" alt="Task Manager repository card" />
-</a>
-<a href="https://github.com/RishabhYAdav123/Driver_Evaluation_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=Driver_Evaluation_System&theme=tokyonight&hide_border=true" alt="Driver Evaluation System repository card" />
-</a>
-
-</div>
-
-| Project | Description | Tech Focus |
-| --- | --- | --- |
-| [WorkShield](https://github.com/RishabhYAdav123/WorkShield) | Predicts employee attrition risk and generates analysis reports. | Flask, Python, ML |
-| [Movie Review Sentiment Analysis](https://github.com/RishabhYAdav123/Movie_review_sentiment_analysis_using_nlp) | Uses NLP to classify movie review sentiment. | Python, NLP, ML |
-| [Task Manager](https://github.com/RishabhYAdav123/task-manager) | Helps manage daily tasks and productivity. | Web Development |
-| [Driver Evaluation System](https://github.com/RishabhYAdav123/Driver_Evaluation_System) | Evaluates driver-related performance data. | Python, Data Analysis |
-
----
-
 ## GitHub Stats
 
 <div align="center">
