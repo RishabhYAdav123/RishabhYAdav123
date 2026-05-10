@@ -1,34 +1,76 @@
 <div align="center">
 
-# Hi, I'm Rishabh Yadav
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=190&section=header&text=Rishabh%20Yadav&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Python%20Developer&descAlignY=58&descSize=17" alt="Profile banner" />
 
-### AI/ML Enthusiast | Full-Stack Developer | Python Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+smart+and+useful+projects;Exploring+AI%2C+ML%2C+NLP+and+Web+Development;Turning+ideas+into+real+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=800&center=true&vCenter=true&width=900&lines=Building+smart+projects+with+Python+and+Machine+Learning;Exploring+NLP%2C+Flask%2C+React+and+full-stack+development;Turning+ideas+into+real+applications;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
 <br />
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=RishabhYAdav123&style=for-the-badge&color=0e75b6" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/RishabhYAdav123?style=for-the-badge&logo=github" alt="GitHub followers" />
+<a href="https://github.com/RishabhYAdav123">
+  <img src="https://img.shields.io/badge/GitHub-RishabhYAdav123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin-username">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=RishabhYAdav123&style=for-the-badge&color=1f6feb" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/RishabhYAdav123?style=for-the-badge&logo=github&color=238636" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/RishabhYAdav123?style=for-the-badge&logo=github&color=8957e5" alt="GitHub stars" />
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:58A6FF&height=2&section=header" alt="Divider" />
+
 ## About Me
 
-- Currently building **WorkShield**, an employee attrition prediction and risk analysis app.
-- Interested in **Machine Learning, NLP, full-stack development, automation, and practical AI tools**.
-- Learning and improving in **Python, Flask, React, JavaScript, and data-driven applications**.
-- I enjoy creating projects that solve real problems and make workflows simpler.
+```js
+const rishabh = {
+  role: "AI/ML Enthusiast and Full-Stack Developer",
+  focus: ["Machine Learning", "NLP", "Flask", "React", "Practical AI Tools"],
+  currentlyBuilding: "WorkShield",
+  learning: ["Data-driven apps", "Model deployment", "Modern web development"],
+  mindset: "Build useful software, keep improving, and solve real problems."
+};
+```
+
+- Currently working on **WorkShield**, an employee attrition prediction and risk analysis app.
+- Exploring **Machine Learning, NLP, automation, Flask, React, and full-stack workflows**.
+- Interested in building projects that are clean, practical, and useful for real users.
+- Open to learning through projects, collaborations, and open-source contributions.
 
 ---
 
-## Tech Stack
+## Skill Set
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" alt="Tech stack icons" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" alt="Languages" />
+
+### Frameworks And Libraries
+
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,express,bootstrap" alt="Frameworks and libraries" />
+
+### Databases And Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Databases and tools" />
+
+### AI And Data
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/NLP-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
+<img src="https://img.shields.io/badge/Data%20Analysis-238636?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
+<img src="https://img.shields.io/badge/Model%20Deployment-8957E5?style=for-the-badge&logo=render&logoColor=white" alt="Model Deployment" />
 
 </div>
 
@@ -39,31 +81,35 @@
 <div align="center">
 
 <a href="https://github.com/RishabhYAdav123/WorkShield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=WorkShield&theme=tokyonight" alt="WorkShield repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=WorkShield&theme=tokyonight&hide_border=true" alt="WorkShield repository card" />
 </a>
-
-<a href="https://github.com/RishabhYAdav123/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=task-manager&theme=tokyonight" alt="Task Manager repository card" />
-</a>
-
 <a href="https://github.com/RishabhYAdav123/Movie_review_sentiment_analysis_using_nlp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=Movie_review_sentiment_analysis_using_nlp&theme=tokyonight" alt="Movie Review Sentiment Analysis repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=Movie_review_sentiment_analysis_using_nlp&theme=tokyonight&hide_border=true" alt="Movie Review Sentiment Analysis repository card" />
 </a>
-
+<a href="https://github.com/RishabhYAdav123/task-manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=task-manager&theme=tokyonight&hide_border=true" alt="Task Manager repository card" />
+</a>
 <a href="https://github.com/RishabhYAdav123/Driver_Evaluation_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=Driver_Evaluation_System&theme=tokyonight" alt="Driver Evaluation System repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhYAdav123&repo=Driver_Evaluation_System&theme=tokyonight&hide_border=true" alt="Driver Evaluation System repository card" />
 </a>
 
 </div>
 
+| Project | Description | Tech Focus |
+| --- | --- | --- |
+| [WorkShield](https://github.com/RishabhYAdav123/WorkShield) | Predicts employee attrition risk and generates analysis reports. | Flask, Python, ML |
+| [Movie Review Sentiment Analysis](https://github.com/RishabhYAdav123/Movie_review_sentiment_analysis_using_nlp) | Uses NLP to classify movie review sentiment. | Python, NLP, ML |
+| [Task Manager](https://github.com/RishabhYAdav123/task-manager) | Helps manage daily tasks and productivity. | Web Development |
+| [Driver Evaluation System](https://github.com/RishabhYAdav123/Driver_Evaluation_System) | Evaluates driver-related performance data. | Python, Data Analysis |
+
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RishabhYAdav123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhYAdav123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=RishabhYAdav123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhYAdav123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 <br />
@@ -78,46 +124,42 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## Contribution Graph
+## Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYAdav123&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYAdav123&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## Project Highlights
-
-| Project | What it does | Tech Focus |
-| --- | --- | --- |
-| [WorkShield](https://github.com/RishabhYAdav123/WorkShield) | Predicts employee attrition risk and generates analysis reports | Flask, Python, ML |
-| [Movie Review Sentiment Analysis](https://github.com/RishabhYAdav123/Movie_review_sentiment_analysis_using_nlp) | Uses NLP to classify movie review sentiment | Python, NLP, ML |
-| [Task Manager](https://github.com/RishabhYAdav123/task-manager) | Helps manage daily tasks and productivity | Web Development |
-| [Driver Evaluation System](https://github.com/RishabhYAdav123/Driver_Evaluation_System) | Evaluates driver-related performance data | Python, Data Analysis |
-
----
-
-## Connect With Me
+## Developer Extras
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin-username">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/RishabhYAdav123">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Developer joke" />
+
+<br />
+<br />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RishabhYAdav123/RishabhYAdav123/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
@@ -127,6 +169,6 @@
 
 ### Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=120&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,45:1F6FEB,100:0D1117&height=130&section=footer" alt="Footer wave" />
 
 </div>
