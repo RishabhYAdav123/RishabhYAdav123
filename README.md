@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=190&section=header&text=Rishabh%20Yadav&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Python%20Developer&descAlignY=58&descSize=17" alt="Profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1F6FEB,100:8B5CF6&height=210&section=header&text=Rishabh%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17" alt="Rishabh Yadav profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=800&center=true&vCenter=true&width=900&lines=Building+smart+projects+with+Python+and+Machine+Learning;Exploring+NLP%2C+Flask%2C+React+and+full-stack+development;Turning+ideas+into+real+applications;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=800&center=true&vCenter=true&width=900&lines=I+build+things+for+the+web;Exploring+Machine+Learning%2C+NLP+and+AI;Solving+DSA+problems+on+LeetCode;Turning+ideas+into+real+applications" alt="Typing SVG" />
 
 <br />
 <br />
@@ -28,7 +28,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:58A6FF&height=2&section=header" alt="Divider" />
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
 ## About Me
 
@@ -37,36 +39,37 @@ const rishabh = {
   role: "AI/ML Enthusiast and Full-Stack Developer",
   focus: ["Machine Learning", "NLP", "Flask", "React", "DSA"],
   currentlyBuilding: "WorkShield",
-  learning: ["Data-driven apps", "Model deployment", "Modern web development", "Problem solving"],
-  mindset: "Build useful software, keep improving, and solve real problems."
+  leetcode: "Rishabh_Yadav_17",
+  mindset: "Learn, build, improve."
 };
 ```
 
-- Currently working on **WorkShield**, an employee attrition prediction and risk analysis app.
+- Building **WorkShield**, an employee attrition prediction and risk analysis app.
 - Exploring **Machine Learning, NLP, automation, Flask, React, and full-stack workflows**.
 - Practicing **DSA and problem solving** on [LeetCode](https://leetcode.com/u/Rishabh_Yadav_17/).
-- Interested in building projects that are clean, practical, and useful for real users.
-- Open to learning through projects, collaborations, and open-source contributions.
+- Interested in clean, practical projects that solve real problems.
+
+  </td>
+  <td width="42%" valign="top">
+
+## Developer Visual
+
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding animation" />
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-## Skill Set
+## Tech Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,c,cpp,bootstrap" alt="Tech stack icons" />
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" alt="Languages" />
-
-### Frameworks And Libraries
-
-<img src="https://skillicons.dev/icons?i=flask,react,nodejs,express,bootstrap" alt="Frameworks and libraries" />
-
-### Databases And Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Databases and tools" />
-
-### AI And Data
+<br />
+<br />
 
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/NLP-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
@@ -99,7 +102,42 @@ const rishabh = {
 
 ---
 
-## GitHub Stats
+## Project Showcase
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>WorkShield</h3>
+      <p>Employee attrition prediction and risk analysis app with CSV upload, ML predictions, and action recommendations.</p>
+      <p><b>Tech:</b> Python, Flask, Machine Learning</p>
+      <a href="https://github.com/RishabhYAdav123/WorkShield">View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>Movie Review Sentiment Analysis</h3>
+      <p>NLP project that classifies movie review sentiment and demonstrates text-processing workflows.</p>
+      <p><b>Tech:</b> Python, NLP, ML</p>
+      <a href="https://github.com/RishabhYAdav123/Movie_review_sentiment_analysis_using_nlp">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Task Manager</h3>
+      <p>A productivity-focused web app for organizing tasks and managing daily workflow.</p>
+      <p><b>Tech:</b> Web Development</p>
+      <a href="https://github.com/RishabhYAdav123/task-manager">View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>Driver Evaluation System</h3>
+      <p>Data-driven project for evaluating driver-related performance and behavior patterns.</p>
+      <p><b>Tech:</b> Python, Data Analysis</p>
+      <a href="https://github.com/RishabhYAdav123/Driver_Evaluation_System">View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -164,6 +202,6 @@ const rishabh = {
 
 ### Thanks for visiting my profile
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,45:1F6FEB,100:0D1117&height=130&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,45:1F6FEB,100:020617&height=130&section=footer" alt="Footer wave" />
 
 </div>
