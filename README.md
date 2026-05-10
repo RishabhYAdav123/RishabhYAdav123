@@ -71,13 +71,18 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RishabhYAdav123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhYAdav123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=RishabhYAdav123&show_icons=true&theme=radical&hide_border=false&border_color=ff4ecd&title_color=00e7ff&icon_color=ffdd57&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhYAdav123&layout=compact&theme=radical&hide_border=false&border_color=00e7ff&title_color=ff4ecd&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=RishabhYAdav123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=RishabhYAdav123&theme=radical&hide_border=false&border=7c3aed&background=0D1117&ring=ff4ecd&fire=ffdd57&currStreakLabel=00e7ff" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYAdav123&theme=react-dark&hide_border=false&bg_color=0d1117&color=00e7ff&line=ff4ecd&point=ffdd57&area=true&area_color=7c3aed" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -87,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" />
 
 </div>
 
