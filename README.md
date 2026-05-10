@@ -31,7 +31,6 @@
 ## About Me
 
 - Final Year BTech student at **PSIT Kanpur**
-- Pursuing **IMSc in Maths and Computing** from **BIT Mesra**
 - Interested in **AI, Computer Vision, NLP, Real-Time Tracking, and Web Development**
 - Currently building practical AI/ML and full-stack projects
 - Practicing problem solving on [LeetCode](https://leetcode.com/u/Rishabh_Yadav_17/)
@@ -84,6 +83,16 @@
 
 ---
 
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 ## LeetCode
 
 <div align="center">
@@ -116,6 +125,6 @@
 
 <div align="center">
 
-### Thanks for visiting my profile
+### "Smiling is the best reaction in all critical situation."
 
 </div>
