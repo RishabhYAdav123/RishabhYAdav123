@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="./assets/ai-profile-background.png" alt="Rishabh Yadav AI/ML futuristic profile banner" />
+<img width="100%" src="https://raw.githubusercontent.com/RishabhYAdav123/RishabhYAdav123/main/assets/ai-profile-background.png" alt="Rishabh Yadav AI/ML futuristic profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=800&center=true&vCenter=true&width=950&lines=Building+AI-powered+real-time+systems;Computer+Vision+%7C+NLP+%7C+Full-Stack+Engineering;YOLO+%2B+DeepSORT+%2B+OpenCV+%2B+ML;Turning+research+ideas+into+production-ready+apps" alt="Typing animation" />
 
 <br />
 <br />
 
-<a href="https://github.com/RishabhYadav123">
-  <img src="https://img.shields.io/badge/GitHub-RishabhYadav123-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/RishabhYAdav123">
+  <img src="https://img.shields.io/badge/GitHub-RishabhYAdav123-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/rishabh-yadav-ba4562288/">
   <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,9 +20,9 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=RishabhYadav123&style=for-the-badge&color=0ea5e9" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/RishabhYadav123?style=for-the-badge&logo=github&color=7c3aed" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/RishabhYadav123?style=for-the-badge&logo=github&color=22c55e" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=RishabhYAdav123&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/RishabhYAdav123?style=for-the-badge&logo=github&color=7c3aed" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/RishabhYAdav123?style=for-the-badge&logo=github&color=22c55e" alt="GitHub stars" />
 
 </div>
 
@@ -162,7 +162,7 @@ public:
       <h3>🛡️ WorkShield</h3>
       <p>Employee attrition prediction and risk analysis platform with ML predictions, CSV workflow, and recommendation outputs.</p>
       <p><b>Stack:</b> Python, Flask, SVM, ML</p>
-      <a href="https://github.com/RishabhYadav123/WorkShield">
+      <a href="https://github.com/RishabhYAdav123/WorkShield">
         <img src="https://img.shields.io/badge/View%20Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="WorkShield repository" />
       </a>
     </td>
@@ -170,7 +170,7 @@ public:
       <h3>🖐️ NexaGestura</h3>
       <p>Gesture-focused project exploring human-computer interaction through intelligent visual recognition workflows.</p>
       <p><b>Stack:</b> Python, Vision, Interaction</p>
-      <a href="https://github.com/RishabhYadav123/Nexagestura">
+      <a href="https://github.com/RishabhYAdav123/Nexagestura">
         <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="NexaGestura repository" />
       </a>
     </td>
@@ -180,7 +180,7 @@ public:
       <h3>🎥 RE_identification_Player</h3>
       <p>Player re-identification and tracking project built around real-time computer vision and feature-based matching.</p>
       <p><b>Stack:</b> YOLO, DeepSORT, OpenCV</p>
-      <a href="https://github.com/RishabhYadav123/RE_identification_Player">
+      <a href="https://github.com/RishabhYAdav123/RE_identification_Player">
         <img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0F172A" alt="RE identification repository" />
       </a>
     </td>
@@ -188,7 +188,7 @@ public:
       <h3>🚘 Driver Evaluation System</h3>
       <p>AI and analytics-based system for evaluating driving performance, behavior, and decision quality.</p>
       <p><b>Stack:</b> Python, ML, Data Analysis</p>
-      <a href="https://github.com/RishabhYadav123/Driver_Evaluation_System">
+      <a href="https://github.com/RishabhYAdav123/Driver_Evaluation_System">
         <img src="https://img.shields.io/badge/View%20Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Driver Evaluation repository" />
       </a>
     </td>
@@ -201,13 +201,13 @@ public:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RishabhYadav123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhYadav123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RishabhYAdav123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhYAdav123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Top languages" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=RishabhYadav123&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=RishabhYAdav123&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub streak" />
 
 </div>
 
@@ -217,7 +217,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYadav123&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhYAdav123&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF" alt="Contribution activity graph" />
 
 </div>
 
@@ -227,7 +227,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RishabhYadav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RishabhYAdav123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
 
 </div>
 
@@ -249,7 +249,7 @@ public:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RishabhYadav123/RishabhYadav123/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/RishabhYAdav123/RishabhYAdav123/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
 
@@ -265,7 +265,7 @@ public:
 <a href="https://leetcode.com/u/Rishabh_Yadav_17/">
   <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-<a href="https://github.com/RishabhYadav123">
+<a href="https://github.com/RishabhYAdav123">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
