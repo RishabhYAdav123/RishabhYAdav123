@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0EA5E9,70:7C3AED,100:111827&height=240&section=header&text=Rishabh%20Yadav&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Final%20Year%20BTech%20Student&descAlignY=58&descSize=18" alt="Rishabh Yadav futuristic banner" />
+<img width="100%" src="./assets/ai-profile-background.png" alt="Rishabh Yadav AI/ML futuristic profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=800&center=true&vCenter=true&width=950&lines=Building+AI-powered+real-time+systems;Computer+Vision+%7C+NLP+%7C+Full-Stack+Engineering;YOLO+%2B+DeepSORT+%2B+OpenCV+%2B+ML;Turning+research+ideas+into+production-ready+apps" alt="Typing animation" />
 
