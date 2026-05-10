@@ -10,11 +10,11 @@
 <a href="https://github.com/RishabhYAdav123">
   <img src="https://img.shields.io/badge/GitHub-RishabhYAdav123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-username">
+<a href="https://www.linkedin.com/in/rishabh-yadav-ba4562288/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://leetcode.com/u/Rishabh_Yadav_17/">
+  <img src="https://img.shields.io/badge/LeetCode-Rishabh__Yadav__17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 <br />
@@ -35,15 +35,16 @@
 ```js
 const rishabh = {
   role: "AI/ML Enthusiast and Full-Stack Developer",
-  focus: ["Machine Learning", "NLP", "Flask", "React", "Practical AI Tools"],
+  focus: ["Machine Learning", "NLP", "Flask", "React", "DSA"],
   currentlyBuilding: "WorkShield",
-  learning: ["Data-driven apps", "Model deployment", "Modern web development"],
+  learning: ["Data-driven apps", "Model deployment", "Modern web development", "Problem solving"],
   mindset: "Build useful software, keep improving, and solve real problems."
 };
 ```
 
 - Currently working on **WorkShield**, an employee attrition prediction and risk analysis app.
 - Exploring **Machine Learning, NLP, automation, Flask, React, and full-stack workflows**.
+- Practicing **DSA and problem solving** on [LeetCode](https://leetcode.com/u/Rishabh_Yadav_17/).
 - Interested in building projects that are clean, practical, and useful for real users.
 - Open to learning through projects, collaborations, and open-source contributions.
 
@@ -71,6 +72,28 @@ const rishabh = {
 <img src="https://img.shields.io/badge/NLP-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
 <img src="https://img.shields.io/badge/Data%20Analysis-238636?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
 <img src="https://img.shields.io/badge/Model%20Deployment-8957E5?style=for-the-badge&logo=render&logoColor=white" alt="Model Deployment" />
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Rishabh_Yadav_17/">
+  <img src="https://leetcard.jacoblin.cool/Rishabh_Yadav_17?theme=dark&font=Fira%20Code&ext=heatmap" alt="Rishabh Yadav LeetCode stats" />
+</a>
+
+<br />
+<br />
+
+<a href="https://leetcode.com/u/Rishabh_Yadav_17/">
+  <img src="https://img.shields.io/badge/Solve%20With%20Me-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+</a>
+<a href="https://www.linkedin.com/in/rishabh-yadav-ba4562288/">
+  <img src="https://img.shields.io/badge/Professional%20Profile-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
 
 </div>
 
